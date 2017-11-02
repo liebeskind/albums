@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import iosApp from './ios.index';
 
-AppRegistry.registerComponent('albums', () => App);
+AppRegistry.registerComponent('albums', () => iosApp);
