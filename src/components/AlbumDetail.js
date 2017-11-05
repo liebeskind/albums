@@ -56,7 +56,7 @@ const styles = {
   },
   thumbnailContainer: {
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'center', //Tells all its children they need to position themselves in some fashion.
     marginLeft: 10,
     marginRight: 10
   },
